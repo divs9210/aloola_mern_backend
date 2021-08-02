@@ -1,0 +1,8 @@
+{
+    "env" : {
+        "DB_USER" : "Divs",
+        "DB_PASSWORD" : "divyanshuroot",
+        "DB_NAME1" : "mern_prod",
+        "JWT_KEY" : "supersecret_don't_share"
+    }
+}
